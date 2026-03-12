@@ -1,0 +1,10 @@
+{
+    "title": "QVCAP & QSP 종합 분석 시스템",
+    "description": "이슬람 꾸란의 논리적 모순을 정밀하게 탐지하고 해체하는 시스템 가이드",
+    "author": "성경기록 회당 (The Scripture Synagogue)",
+    "language": "ko",
+    "plugins": [
+        "theme-default",
+        "collapsible-menu"
+    ]
+}
