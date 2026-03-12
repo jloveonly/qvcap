@@ -4,7 +4,6 @@
     "author": "성경기록 회당 (The Scripture Synagogue)",
     "language": "ko",
     "plugins": [
-        "theme-default",
-        "collapsible-menu"
+        "theme-default"
     ]
 }
