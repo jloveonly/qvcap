@@ -21,6 +21,7 @@
 * [C09 Iblis Quadruple Dilemma (38:71)](7.0/Analysis_C09_38_71_Iblis_Quadruple_Dilemma_V7_Master_EN.md)
 * [C10 Collapse of Ismah (66:1)](7.0/Analysis_C10_66_1_Collapse_of_Ismah_V7_Master_EN.md)
 * [C11 Inheritance Math Error (4:11)](7.0/Analysis_C11_4_11_Inheritance_Math_Error_V7_Master_EN.md)
+* [C12 Best of Creators (23:14)](7.0/Analysis_C12_23_14_Best_of_Creators_V7_Master_EN.md)
 
 ## 🎯 QSP 1.0 System (Precision Strike)
 * [QSP 1.0 Official Guide](qsp/1.0/QSP_1.0_Official_Guide.md)
