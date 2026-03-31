@@ -11,7 +11,7 @@
 * [QVCAP FAQ](7.0/QVCAP_FAQ_EN.md)
 * [C01 Destruction of Jinns (2:30)](7.0/Analysis_C01_2_30_Destruction_of_Jinns_V7_Master_EN.md)
   * [Appendix: Advanced Academic Apologetics](7.0/QVCAP_Appendix_C01_2_30_Advanced_Academic_Apologetics_Master_Log_EN.md)
-* [Appendix: Analysis of 49 Key Issues in Islamic Strange Doctrines](7.0/QVCAP_Appendix_Islamic_Strange_Doctrines_49_Key_Issues_Analysis.md)
+* [Appendix: Analysis of 49 Key Issues in Islamic Difficult Doctrines](7.0/QVCAP_Appendix_Islamic_Difficult_Doctrines_49_Key_Issues_Analysis.md)
 * [C02 Refusal of Guidance (6:35)](7.0/Analysis_C02_6_35_Refusal_of_Guidance_V7_Master_EN.md)
 * [C03 Denial of Crucifixion (4:157)](7.0/Analysis_C03_4_157_Denial_of_Crucifixion_V7_Master_EN.md)
 * [C04 Sun in the Muddy Spring (18:86)](7.0/Analysis_C04_18_86_Sun_in_the_Muddy_Spring_V7_Master_EN.md)

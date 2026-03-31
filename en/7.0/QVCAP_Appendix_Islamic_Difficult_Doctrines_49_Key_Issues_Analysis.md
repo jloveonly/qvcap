@@ -1,4 +1,4 @@
-# QVCAP Appendix: Analysis of 49 Key Issues in Islamic Strange Doctrines
+# QVCAP Appendix: Analysis of 49 Key Issues in Islamic Difficult Doctrines
 
 This document fact-checks the actual provisions of the scriptures (Quran) and authentic traditions (Sahih Hadith) hidden behind the rhetoric of "peace," "freedom," and "respect for women" used by Islam during external proselytization. It verifies how Islamic laws and customs have been modified over the past 100 years according to international standards, and what logical and historical contradictions Islamic attacks on Christian theology contain. The core point is that **customs that are now banned or dismissed as "misunderstandings" were the dominant divine laws and common sense of the Islamic world just 100 years ago.**
 
